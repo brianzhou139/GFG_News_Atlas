@@ -1,1 +1,1 @@
-# GFG_News_Atlas
+# GFG | News Atlas
