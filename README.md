@@ -12,7 +12,7 @@ News Atlas is a simple android news app that uses [Fast Android Networking Libra
 
 
 ## Screenshots
-<img   hspace="20" src="https://user-images.githubusercontent.com/39838697/151662879-cb3f41ab-f365-4b5a-a55d-baaf16e1e35d.jpg" width="400" height="600"/><img src="https://user-images.githubusercontent.com/39838697/151662915-523d0b28-99d4-432f-85d3-83bd871ff032.jpg" width="400" height="600"/>
+<img   hspace="20" src="https://user-images.githubusercontent.com/39838697/151662879-cb3f41ab-f365-4b5a-a55d-baaf16e1e35d.jpg" width="300" height="600"/><img src="https://user-images.githubusercontent.com/39838697/151662915-523d0b28-99d4-432f-85d3-83bd871ff032.jpg" width="300" height="600"/>
 
 ## License
 MIT License
