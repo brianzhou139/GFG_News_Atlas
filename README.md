@@ -2,17 +2,13 @@
 
 ![GFGNewsAtlasAndroidApp](https://user-images.githubusercontent.com/39838697/151662694-5434a2e4-3b60-4b18-8197-8bf7dc49e249.gif)
 
-News Atlas is a simple android news app that uses [Fast Android Networking Library](https://github.com/amitshekhariitbhu/Fast-Android-Networking) for all the networking operations.
+News Atlas is a simple android news app that uses [Fast Android Networking Library](https://github.com/amitshekhariitbhu/Fast-Android-Networking) for all the networking operations.The step-by-step tutorial on how to build this application can be found on geeks for geeks (link to be inserted).
 
 ## Source Code Review
 * Requirements: [Android Studio](https://developer.android.com/studio/) or [Xcode](https://developer.apple.com/xcode/)<br />
 * Clone this repo/download 
 * Open using android studio and it will handle the rest
 * **Feel free to fork it😊.**<br /><br />
-
-
-## Screenshots
-<img   hspace="20" src="https://user-images.githubusercontent.com/39838697/151662879-cb3f41ab-f365-4b5a-a55d-baaf16e1e35d.jpg" width="300" height="600"/><img src="https://user-images.githubusercontent.com/39838697/151662915-523d0b28-99d4-432f-85d3-83bd871ff032.jpg" width="300" height="600"/>
 
 ## License
 MIT License
